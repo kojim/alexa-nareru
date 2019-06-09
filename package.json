@@ -1,0 +1,20 @@
+{
+  "name": "alexa-nareru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "alexa-skill": "^0.1.1",
+    "http": "^0.0.0"
+  },
+  "devDependencies": {
+    "bestzip": "^2.1.4",
+    "node-zip": "^1.1.1"
+  },
+  "scripts": {
+    "build": "bestzip nareru.zip index.js node_modules/"
+  },
+  "author": "kojim",
+  "license": ""
+}
