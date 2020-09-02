@@ -9,7 +9,7 @@
     "http": "^0.0.0"
   },
   "devDependencies": {
-    "bestzip": "^2.1.4",
+    "bestzip": "^2.1.7",
     "node-zip": "^1.1.1"
   },
   "scripts": {
